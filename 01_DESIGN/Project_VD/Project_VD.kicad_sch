@@ -1,0 +1,902 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f028e2a6-c605-426c-a48b-01109ac555de")
+	(paper "A3")
+	(title_block
+		(date "2026-06-20")
+	)
+	(lib_symbols)
+	(junction
+		(at 273.05 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02af5a8f-27ff-4633-a2de-a6241e02c531")
+	)
+	(junction
+		(at 190.5 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "102f3b19-8628-4cd0-a3bd-923178a4dd47")
+	)
+	(junction
+		(at 270.51 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85bbb987-317c-40af-a437-f8b96d96d826")
+	)
+	(wire
+		(pts
+			(xy 204.47 91.44) (xy 215.9 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06130b9f-ad43-4dc8-b641-199bce2e3f22")
+	)
+	(wire
+		(pts
+			(xy 273.05 123.19) (xy 276.86 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "092e114b-ffb7-4cd6-ad7a-c5f93856cd55")
+	)
+	(wire
+		(pts
+			(xy 190.5 215.9) (xy 190.5 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1430d348-775f-4fa8-b72e-0dc6a7b802d3")
+	)
+	(wire
+		(pts
+			(xy 270.51 215.9) (xy 190.5 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "198dc46f-1079-4d7f-81be-7c82d8f22f99")
+	)
+	(wire
+		(pts
+			(xy 196.85 218.44) (xy 273.05 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e747df7-00f3-40e1-b653-14b99b17207b")
+	)
+	(wire
+		(pts
+			(xy 190.5 209.55) (xy 190.5 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31795cdc-3c72-46d0-86a7-6e99db322ae8")
+	)
+	(wire
+		(pts
+			(xy 204.47 179.07) (xy 215.9 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a40a3df-8e55-4900-b9e6-4e6170fabc4f")
+	)
+	(wire
+		(pts
+			(xy 204.47 182.88) (xy 215.9 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42dd3ab4-5117-48bb-b8b7-ea11cad77a3c")
+	)
+	(wire
+		(pts
+			(xy 204.47 163.83) (xy 215.9 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42fa8768-df13-43dc-b065-d2168a1a42c5")
+	)
+	(wire
+		(pts
+			(xy 266.7 182.88) (xy 270.51 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66667a6b-ace8-446f-9611-46c33f09f76a")
+	)
+	(wire
+		(pts
+			(xy 266.7 91.44) (xy 276.86 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c1b694b-b0f8-4a02-bdae-141b96292229")
+	)
+	(wire
+		(pts
+			(xy 204.47 167.64) (xy 215.9 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f532299-c1c7-49bf-8621-b22826972822")
+	)
+	(wire
+		(pts
+			(xy 270.51 182.88) (xy 270.51 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8313ce7b-ef40-442b-865c-bfd1a1b65487")
+	)
+	(wire
+		(pts
+			(xy 196.85 222.25) (xy 196.85 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ccd874f-e101-4074-aec4-47011d51109a")
+	)
+	(wire
+		(pts
+			(xy 266.7 129.54) (xy 270.51 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a17e8d1a-0d29-458e-8ce3-425171707b67")
+	)
+	(wire
+		(pts
+			(xy 273.05 123.19) (xy 266.7 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a40e17f3-72fc-4b3c-bfdb-118222172408")
+	)
+	(wire
+		(pts
+			(xy 204.47 171.45) (xy 215.9 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac3e5a0c-c71a-4153-a1f7-ec277d72c6cb")
+	)
+	(wire
+		(pts
+			(xy 273.05 218.44) (xy 273.05 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2b81a48-62f7-4dff-ac41-5e3f61d1b033")
+	)
+	(wire
+		(pts
+			(xy 266.7 87.63) (xy 276.86 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7735692-d0a8-4e90-bb7f-dad4f622852c")
+	)
+	(wire
+		(pts
+			(xy 204.47 87.63) (xy 215.9 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5dc85ff-7595-4481-bdd5-c2fa9146decf")
+	)
+	(wire
+		(pts
+			(xy 204.47 175.26) (xy 215.9 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4db87fd-adc7-4b16-936e-b0334731d6fc")
+	)
+	(wire
+		(pts
+			(xy 270.51 129.54) (xy 270.51 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df8c5591-2c02-4409-ad17-59e6d298c56a")
+	)
+	(sheet
+		(at 15.24 19.05)
+		(size 54.61 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "215d2230-6961-40c3-b21c-5c09b96c5cb3")
+		(property "Sheetname" "COVER PAGE"
+			(at 15.24 17.5256 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+					(thickness 0.508)
+					(bold yes)
+					(color 0 0 255 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "COVER PAGE.kicad_sch"
+			(at 15.24 71.1204 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 19.05)
+		(size 63.5 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "33471547-d1ff-42b9-8ed7-cd530bc72e1f")
+		(property "Sheetname" "BLOCK DIAGRAM"
+			(at 72.39 17.5256 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+					(thickness 0.508)
+					(bold yes)
+					(color 0 0 255 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
+			(at 72.39 71.1204 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 222.25)
+		(size 76.2 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3b56a379-f606-42e9-922b-7e39ba10aec9")
+		(property "Sheetname" "POWER 12 - 5V & 5 - 3.3V"
+			(at 128.27 220.9034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER SUPPLY.kicad_sch"
+			(at 128.27 274.1426 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3.3V" output
+			(at 190.5 222.25 90)
+			(uuid "3cd29c23-a634-49c6-97b5-15f71d63a920")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+5V" output
+			(at 196.85 222.25 90)
+			(uuid "fe10b367-e708-497e-9e85-686646e71f08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 158.75)
+		(size 50.8 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "89805fb0-87c7-4765-852c-9d1a0b52ec25")
+		(property "Sheetname" "eMMC2"
+			(at 215.9 157.4034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eMMC2.kicad_sch"
+			(at 215.9 187.7826 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3.3V" input
+			(at 266.7 182.88 0)
+			(uuid "f6cfa701-edc4-41ac-9126-dc9abe22a66b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "eMMC_SDMMC2_CMD" input
+			(at 215.9 167.64 180)
+			(uuid "67cd8dc0-9bb9-49bf-88fd-f45e4009c273")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "eMMC_SDMMC2_D1" input
+			(at 215.9 175.26 180)
+			(uuid "06804fe1-99ee-4831-b6dc-fe7025ae75e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "eMMC_SDMMC2_CK" input
+			(at 215.9 163.83 180)
+			(uuid "eb04eeda-0494-4eea-8023-63fd51897882")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "eMMC_SDMMC2_D3" input
+			(at 215.9 182.88 180)
+			(uuid "65811dbf-ede1-415f-b24b-38f130377d40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "eMMC_SDMMC2_D0" input
+			(at 215.9 171.45 180)
+			(uuid "83346001-9d6d-4fbe-8c7c-f1fd1a49efa1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "eMMC_SDMMC2_D2" input
+			(at 215.9 179.07 180)
+			(uuid "b7c1521d-4f94-43ae-a0a9-17684fcb276e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 82.55)
+		(size 127 127)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "960ebca3-5487-4fd0-958a-218088238298")
+		(property "Sheetname" "MCU STM32H745ZIT3"
+			(at 77.47 81.2034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU STM32H745ZIT3.kicad_sch"
+			(at 77.47 210.6426 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MCU_UART2_TX" output
+			(at 204.47 87.63 0)
+			(uuid "7f7f7494-8d2b-4b88-82b2-32417724ddb8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_UART2_RX" input
+			(at 204.47 91.44 0)
+			(uuid "2820fc15-9c24-4946-9509-e743f1d78fb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+3.3V" input
+			(at 190.5 209.55 270)
+			(uuid "c28f107a-e126-4c46-a513-582a5cccd9f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_eMMC_SDMMC2_D3" input
+			(at 204.47 182.88 0)
+			(uuid "9cc162e3-0bdb-42d7-a107-5b437f2a67d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_eMMC_SDMMC2_D0" input
+			(at 204.47 171.45 0)
+			(uuid "65875368-4d37-452a-921b-693a4b26b9e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_eMMC_SDMMC2_D2" input
+			(at 204.47 179.07 0)
+			(uuid "c182709c-a328-4096-bbf7-4f90de9223e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_eMMC_SDMMC2_CMD" input
+			(at 204.47 167.64 0)
+			(uuid "dc26bea1-f352-401e-a5fa-11f8c78b5752")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_eMMC_SDMMC2_D1" input
+			(at 204.47 175.26 0)
+			(uuid "a43659b0-bfde-4ce5-bc94-d24c4e175f83")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_eMMC_SDMMC2_CK" input
+			(at 204.47 163.83 0)
+			(uuid "c8780d18-03d2-43ee-a954-44e79d1f5aa1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 138.43 19.05)
+		(size 58.42 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a1394a03-f601-4da0-9b72-da5993329a40")
+		(property "Sheetname" "INDEX"
+			(at 138.43 17.5256 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+					(thickness 0.508)
+					(bold yes)
+					(color 0 0 255 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INDEX.kicad_sch"
+			(at 138.43 71.1204 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 82.55)
+		(size 50.8 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b55553c5-82a9-4e8e-a604-84aca73d8020")
+		(property "Sheetname" "ISO_UART"
+			(at 215.9 81.2034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ISO_UART.kicad_sch"
+			(at 215.9 134.4426 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ISO_UART2_RX" output
+			(at 215.9 91.44 180)
+			(uuid "e939205a-c4cb-4f9d-8fda-48f350cfbd9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ISO_UART2_TX" input
+			(at 215.9 87.63 180)
+			(uuid "2cdffd8f-fc46-4f90-8afd-5571d7e89a55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ISO_UART0_RX" output
+			(at 266.7 91.44 0)
+			(uuid "02553c54-0180-46fc-b289-0e49622c42b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ISO_UART0_TX" input
+			(at 266.7 87.63 0)
+			(uuid "3cea1f4e-b44b-4f17-9022-2e3b37792407")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+3.3V" input
+			(at 266.7 129.54 0)
+			(uuid "e3bc9a1b-452a-4ccf-ab8f-fa85306ae8b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+5V" input
+			(at 266.7 123.19 0)
+			(uuid "0ed1f728-9cfa-4131-ae96-11883b52c156")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 276.86 82.55)
+		(size 68.58 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "eef9aa5b-fb98-4a14-8319-8f43c96ad928")
+		(property "Sheetname" "MCU ATMEGA324PA"
+			(at 276.86 81.2034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU ATMEGA324PA.kicad_sch"
+			(at 276.86 134.4426 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(pin "AVR_ISO_UART0_TX" output
+			(at 276.86 87.63 180)
+			(uuid "b82d9f9d-68af-4bdc-bfe0-23037ea8166c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "AVR_ISO_UART0_RX" input
+			(at 276.86 91.44 180)
+			(uuid "e5f1a03a-1178-4284-8a5b-eb2d9fa100ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+5V" input
+			(at 276.86 123.19 180)
+			(uuid "382268c3-a6b1-403e-95b5-63fce398be51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Project_VD"
+				(path "/f028e2a6-c605-426c-a48b-01109ac555de"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,23 @@
+# --- KiCAD Design Files (Bên trong 01_DESIGN) ---
+**/01_DESIGN/*.bck
+**/01_DESIGN/*.kicad_prl
+**/01_DESIGN/*-bak
+**/01_DESIGN/*-backups/
+**/01_DESIGN/_autosave-*
+**/01_DESIGN/*.pcode
+**/01_DESIGN/*.rpts
+**/01_DESIGN/*.rpt
+**/01_DESIGN/*.history
+# --- Giữ lại các thư mục trống trên Git ---
+!**/02_Sche_PDF/.gitkeep
+!**/03_BOM/.gitkeep
+!**/04_GERBER/.gitkeep
+!**/05_SMT/.gitkeep
+!**/06_CAD/.gitkeep
+!**/07_3D/.gitkeep
+!**/08_REF/.gitkeep
+!**/09_LIB/.gitkeep
+!**/10_Huong dan KICAD/.gitkeep
+# --- OS temporary files ---
+.DS_Store
+Thumbs.db

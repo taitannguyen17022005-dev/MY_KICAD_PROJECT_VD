@@ -1,0 +1,34 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "46a0fed1-ed14-4c7c-8e46-37b5118332c7")
+	(paper "A3")
+	(lib_symbols)
+	(text "Page\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12"
+		(exclude_from_sim no)
+		(at 139.954 77.47 0)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "01b71ed7-ce19-492b-8767-9267575e0af0")
+	)
+	(text "Title\nCOVER PAGE\nBLOCK DIAGRAM\nINDEX\nPOWER 12V@2A - 5V@1.5A\nPOWER 5V - 3.3V@1A\nUSB 2.0\nMCU STM32H745ZIT3\neMMC2\nISO_UART\nMCU ATMEGA324PA\nAnalog Buffer\nHeader2"
+		(exclude_from_sim no)
+		(at 151.384 77.724 0)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 5.08 5.08)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "368a3222-d3d8-49e4-b002-b279808bc413")
+	)
+)
