@@ -1,0 +1,22 @@
+(version 1)
+(rule "STM32_Rule_Area"
+	(constraint clearance (min 0.15mm))
+	(constraint track_width (min 0.25mm))
+    (constraint via_diameter (min 0.6mm))
+    (constraint hole_size (min 0.3mm))
+    (condition "A.insideArea('STM32_Rule_Area')"))
+(rule "AVR_Rule_Area"
+	(constraint clearance (min 0.2mm))
+	(constraint track_width (min 0.3mm))
+    (constraint via_diameter (min 0.6mm))
+    (constraint hole_size (min 0.3mm))
+    (condition "A.insideArea('AVR_Rule_Area')"))
+(rule "eMMC_Rule_Area"
+	(constraint clearance (min 0.1mm))
+	(constraint track_width (min 0.3mm))
+    (constraint via_diameter (min 0.4mm))
+    (constraint hole_size (min 0.2mm))
+    (condition "A.insideArea('eMMC_Rule_Area')"))
+(rule "High_Speed_Matching"
+	(constraint skew (max 10ps))
+    (condition "A.hasNetclass('eMMC')"))

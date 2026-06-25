@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7d5b63d0-ffcc-44d7-a4df-7bd215b5a18f")
+	(paper "A3")
+	(lib_symbols)
+	(text "PROJECT: BEEE\n\nsub-system: USB board\n\nVersion: 1.0.0"
+		(exclude_from_sim no)
+		(at 204.978 39.37 0)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 5.08 5.08)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "274184d3-1779-4fe1-864e-59f169bfd24a")
+	)
+)

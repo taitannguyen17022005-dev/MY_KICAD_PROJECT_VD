@@ -7210,7 +7210,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "MANUFACTURER" "Panasonic"
 			(at 55.88 33.02 0)
 			(hide yes)
 			(show_name no)
