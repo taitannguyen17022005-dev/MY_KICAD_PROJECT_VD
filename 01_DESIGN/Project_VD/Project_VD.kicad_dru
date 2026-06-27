@@ -19,4 +19,7 @@
     (condition "A.insideArea('eMMC_Rule_Area')"))
 (rule "High_Speed_Matching"
 	(constraint length (min 230ps) (opt 235ps) (max 240ps))
-	(condition "A.fromTo('U3-74', 'U4-K2') && A.fromTo('U3-75', 'U4-N2') && A.fromTo('U3-131', 'U4-N3') && A.fromTo('U3-124', 'U4-K3') && A.fromTo('U3-120', 'U4-P6') && A.fromTo('U3-121', 'U4-P5')")) 
+	(condition "A.fromTo('U3', 'U4')")) 
+(rule "AVR_Edge_cut"
+	(constraint edge_clearance (min 0mm))
+    (condition "A.memberOfFootprint('U7')"))
