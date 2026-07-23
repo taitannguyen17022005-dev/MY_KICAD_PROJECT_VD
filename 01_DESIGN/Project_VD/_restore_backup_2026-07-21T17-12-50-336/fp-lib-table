@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "New_component") (type "KiCad") (uri "C:/1_Altium_Project/3_Project_VD_KICAD_10.0.3/09_LIB/New_component.pretty") (options "") (descr ""))
+	(lib (name "LABLIB") (type "KiCad") (uri "C:/1_Altium_Project/0_LAB_LIB/LIB_KICAD/LABLIB.pretty") (options "") (descr ""))
+)
